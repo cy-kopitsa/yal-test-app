@@ -1,0 +1,15 @@
+.monthMenu :global .gray {
+    color: grey !important;
+}
+
+.monthMenu :global .blue {
+    color: blue !important;
+}
+
+.monthMenu :global .green {
+    color: green !important;
+}
+
+.monthMenu :global .red {
+    color: red !important;
+}
